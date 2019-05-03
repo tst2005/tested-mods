@@ -1,6 +1,3 @@
-https://mods.factorio.com/mod/Hovercrafts/discussion/5cc9c7712ff750000d6dbc2f
-https://mods.factorio.com/mod/Portals/discussion/5cc9ccb42ff750000b3952f4
-https://mods.factorio.com/mod/ShowUnconnected/discussion/5cc9d48c2ff750000ca5a210
 
 # Interface / aide
 
@@ -69,7 +66,7 @@ https://mods.factorio.com/mod/ShowUnconnected/discussion/5cc9d48c2ff750000ca5a21
 	- [ ] WANTED
 	- license: MIT
 
-- [?] Fill4me : https://mods.factorio.com/mod/Fill4Me
+- Fill4me : https://mods.factorio.com/mod/Fill4Me
 	- [x] TESTED (pour l'auto fuel, mais l'auto munition est sympa aussi!)
 	- [x] WANTED
 	- charge du fuel dans un vehicule automatiquement (je veux!), ne s'applique pas aux tourelles placés par les drones.
@@ -90,6 +87,7 @@ https://mods.factorio.com/mod/ShowUnconnected/discussion/5cc9d48c2ff750000ca5a21
 	- [x] TESTED
 	- [x] WANTED
 	- [x] TESTED bug avec electric-vehicle-lib-reborn (et LaserTank)
+	- https://mods.factorio.com/mod/Hovercrafts/discussion/5cc9c7712ff750000d6dbc2f
 
 - Cargo Ships : https://mods.factorio.com/mod/cargo-ships
 	- après les trains, des bateaux!
@@ -115,6 +113,7 @@ https://mods.factorio.com/mod/ShowUnconnected/discussion/5cc9d48c2ff750000ca5a21
 	- Bug corrigé: il permettait de poser le portail bleu n'importe où (meme dans les zone non explorée) ca venait visiblement d'un bug de factorio (corrigé en 0.17.35)
 	- On peut poser un portail a distance partout où on a la vision
 	- On peut changer les réglages et choisir de n'autoriser que les portails proches du joueur (ca n'empeche pas d'en poser 2 avec une très grande distance entre les 2)
+	- https://mods.factorio.com/mod/Portals/discussion/5cc9ccb42ff750000b3952f4
 
 
 # terre/eau/pont
@@ -194,10 +193,11 @@ https://mods.factorio.com/mod/ShowUnconnected/discussion/5cc9d48c2ff750000ca5a21
 	- [ ] TESTED
 	- license: CC BY-SA 4.0
 
-- [?] https://mods.factorio.com/mod/Bioluminescence
+- https://mods.factorio.com/mod/Bioluminescence
 	- Ajoute des arbres bioluminescent (ce sont des arbres en + des arbres normaux)
 	- [x] TESTED
-	- [x] WANTED
+	- [x] WANTED ?
+	- [ ] TESTED MORE ?
 	- [x] WARNING: nécessite de regénérer le terrain => attention aux inconvénients/danger !
 	- Fonctionne pour une nouvelle partie. (qu'a la création du terrain?)
 	- Ne fonctionne pas pour une partie existante ?
@@ -230,15 +230,14 @@ https://mods.factorio.com/mod/ShowUnconnected/discussion/5cc9d48c2ff750000ca5a21
 	- [x] WANTED
 	- license: non-free!
 
-- [/] https://mods.factorio.com/mod/laser_tanks
+- https://mods.factorio.com/mod/laser_tanks
 	- Change l'apparence du tir lazer du tank
 	- license: CC BY-SA 4.0
 	- [x] TESTED
 	- [x] BUG!
 	- [ ] wanted
 	- Le bug vient de la lib "Electric Vehicles Lib: Reborn" mod (le mod laser_tanks inclus la version 0.1.0) (le bug se reproduit sans laser_tank avec uniquement la lib, meme en version 0.1.2)
-		- voir: Lehttps://mods.factorio.com/mod/Hovercrafts/discussion/5cc9c7712ff750000d6dbc2f
-	- https://mods.factorio.com/mod/Hovercrafts/discussion/5cc9c7712ff750000d6dbc2f
+		- voir: https://mods.factorio.com/mod/Hovercrafts/discussion/5cc9c7712ff750000d6dbc2f
 
 * https://mods.factorio.com/mod/laser_rifle
 	- si on a deja un lazer portatif pourquoi pas une arme ? trop cheaté ?
@@ -252,7 +251,8 @@ https://mods.factorio.com/mod/ShowUnconnected/discussion/5cc9d48c2ff750000ca5a21
 
 # New tiles
 
-- Dectorio : 
+- Dectorio : https://mods.factorio.com/mod/Dectorio
+	- decorative elements
 	- [ ] TESTED
 	- [x] WANTED
 
