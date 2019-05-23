@@ -25,7 +25,8 @@
 
 - https://mods.factorio.com/mod/Vehicle_Cruise_Control
 	- [x] TESTED
-	- [x] WANTED
+	- [ ] test with azerty keyboard
+	- [x] WANTED ?
 	- avancer/reculer en toggle (ctrl+W/ctrl+S)
 	- license: The Unlicense (Public Domain)
 	- TEST require: ctrl+W est bien pour un QWERTY mais en AZERTY ca donne quoi ? estce que ctrl+Z n'est pas dejà utilisé pour annuler (blueprint/construction) ?
@@ -86,8 +87,8 @@
 	- license: CC BY-SA 4.0
 	- [x] TESTED
 	- [x] WANTED
-	- [x] TESTED bug avec electric-vehicle-lib-reborn (et LaserTank)
-	- https://mods.factorio.com/mod/Hovercrafts/discussion/5cc9c7712ff750000d6dbc2f
+	- [x] bug fixed : avec electric-vehicle-lib-reborn sans electric-vehicle-reborn (découvert avec LaserTank) : 
+		- FIXED: https://mods.factorio.com/mod/Hovercrafts/discussion/5cc9c7712ff750000d6dbc2f
 
 - Cargo Ships : https://mods.factorio.com/mod/cargo-ships
 	- après les trains, des bateaux!
@@ -101,6 +102,7 @@
 	- Construire des téléporteurs pour les joueurs pour se déplacer de base en base
         - Teleporteur de base en base
         - [x] partial-TESTED (necessite la recherche)
+	- [x] WANTED
 	- license:
         - bon compromis/alternative à "Portals" ?
 
@@ -442,3 +444,24 @@ Tester le jeu avec tous les mods de OwnlyMe ?
 
 - https://mods.factorio.com/mod/building-platform
 
+
+- https://factorioprints.com/view/-Ldjsomos6rjPsEi8A_1
+- https://kirkmcdonald.github.io/calc.html#tab=graph&data=0-17-1&rate=s&min=2&belt=fast-transport-belt&vis=box&vd=down&items=refined-concrete:f:7
+- https://rubyruy.github.io/factorio-calc/#core-0-16-51
+
+# BP EDITORS
+- https://teoxoy.github.io/factorio-blueprint-editor/ (il utilise E/Q pour ouvrir/lacher un element)
+- https://camerongillette.github.io/factorio_blueprint_editor/
+ - https://factoriobp.thelonegamers.com/
+ - http://factoriobp.rf.gd/?i=1
+
+
+Best BP:
+- popo/all science : https://factorioprints.com/view/-LV4ZJpfgpKKUkyodKiz
+- all base : https://factorioprints.com/view/-LI0gc-a-2_VLWR-tx1d
+
+http://fbpviewer.trakos.pl/#
+
+
+BP: rail : Celtic Knot Style Intersection : https://factorioprints.com/view/-KjYZyOEXtpW0OyjrC0D
+rail (with door) : https://factorioprints.com/view/-KZGMoiKxO8HsEngq0B7
